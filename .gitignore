@@ -160,4 +160,4 @@ cython_debug/
 #.idea/
 
 # Redis stuff
-**/dump.rdb
+redis_data/
